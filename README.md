@@ -6,6 +6,11 @@ Dependiendo de las caractareísticas de tu equipo, se tardará unos minutos en c
 
 Para el formato gif se utiliza el writer "imagemagick" desde la librería de animación de matplotlib, así que será necesario que lo instales si lo quieres replicar
 
+## Mandelbrot
+
+![](mandelbrot.gif)
+
+
 ## Julia
 
 ![](julia.gif)
